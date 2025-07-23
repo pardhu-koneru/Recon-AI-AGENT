@@ -1,0 +1,54 @@
+langchain>=0.1.0
+langgraph>=0.0.1
+requests>=2.0
+langgraph
+langchain_openai
+langchain_groq
+dnsdumpster
+# certsh
+
+# Core Dependencies for Modular Automated Reconnaissance Agent
+# All tools are pip-installable for Python 3.12 compatibility
+
+# LangChain and LangGraph for Agent Framework
+langchain==0.1.0
+# langchain-core==0.1.0
+langchain-groq==0.1.0
+langgraph==0.0.20
+
+# HTTP and Async Networking
+aiohttp==3.9.1
+httpx==0.26.0
+requests==2.31.0
+
+# DNS Resolution and Network Tools
+dnspython==2.4.2
+
+# Environment and Configuration
+python-dotenv==1.0.0
+
+# Data Processing and Serialization
+pydantic==2.5.0
+
+# Logging and Utilities
+colorama==0.4.6
+python-nmap
+webtech
+builtwith
+
+streamlit
+# Optional: For enhanced functionality (uncomment if needed)
+# streamlit==1.29.0          # For web interface
+# plotly==5.17.0             # For visualization
+# pandas==2.1.4              # For data analysis
+# numpy==1.26.2              # For numerical operations
+
+# Development and Testing (optional)
+# pytest==7.4.3
+# pytest-asyncio==0.21.1
+# black==23.12.0
+# flake8==6.1.0
+
+# Security and SSL
+# cryptography==41.0.8       # For enhanced SSL handling
+# certifi==2023.11.17        # For SSL certificate verification
